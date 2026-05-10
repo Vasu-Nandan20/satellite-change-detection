@@ -1,3 +1,8 @@
-opencv-python
+opencv-contrib-python
 numpy
 pillow
+customtkinter
+scikit-image
+scikit-learn
+matplotlib
+reportlab
